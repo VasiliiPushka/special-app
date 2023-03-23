@@ -1,1 +1,5 @@
-print("Heloo world'")
+print("Heloo world")
+x = int(input('введите число')
+print()
+print(x)
+
